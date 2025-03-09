@@ -10,7 +10,8 @@ This Github organization represents our more tech-inclined members; we'll host p
 
 ### Current Projects
 
-- [discord-cbl](https://github.com/Frontline-Femmes/discord-cbl): A Discord bot designed to check the Community Ban List (CBL) history for a given SteamID. The bot uses GraphQL to fetch data from the Community Ban List and provides detailed information about a user's reputation, risk rating, and ban history.
+- [discord-cbl](https://github.com/community-ban-list/discord-cbl): A Discord bot designed to check the Community Ban List (CBL) history for a given SteamID. The bot uses GraphQL to fetch data from the Community Ban List and provides detailed information about a user's reputation, risk rating, and ban history.
+- [SteamOSINT](https://github.com/Frontline-Femmes/Steam-OSINT): A Google Apps Script that provides powerful tools for gathering and analyzing information about Steam users and games. It leverages the Steam Web API and Squad Community Ban List (CBL) API to collect data that can be used for research, community management, game analytics, and more.
 
 ### How to Contribute
 
